@@ -32,5 +32,8 @@ Nas bases seguintes, selecionou-se 80% das imagens para treinamento, sendo 20% p
 das regiões de cromossomo e não cromossomo dessas imagens. Na fase de teste trabalhou-se com a imagem em sua completude,
 inserindo regiões pré-definidas para serem testadas.
 * Base 2: Imagens segmentadas ou coloridas, padronizadas ao tamanho de 120x120.
+    * [Base binaria](https://bit.ly/2Wy7ZXN)
+    * [Base Colorida](https://bit.ly/2FXPery)
 * Base 3: Adcionou-se aos recortes das imagens segmentadas bordas com pixels pretos, com o intuito de deixar o tamanho dos recortes 
 o mais proximo de 120x120, sem alterar a proporção das imagens em si.
+    * [Base binaria](https://bit.ly/2FZolDK)
