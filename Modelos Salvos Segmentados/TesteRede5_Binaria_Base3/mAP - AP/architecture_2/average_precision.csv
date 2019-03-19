@@ -1,0 +1,10 @@
+average_precision,taxa_iou,precision,janela,batch
+2.3490721165139772e-05,,0.00035236081747709656,20,20
+average_precision,taxa_iou,precision,janela,batch
+0.0,,0.0,25,20
+average_precision,taxa_iou,precision,janela,batch
+1.043205933679342e-05,,0.0001564808900519013,30,20
+average_precision,taxa_iou,precision,janela,batch
+2.849002849002849e-05,,0.00042735042735042735,35,20
+average_precision,taxa_iou,precision,janela,batch
+0.0,,0.0,40,20
